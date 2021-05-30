@@ -29,7 +29,7 @@ body {
 }
 
 .hero-text {
-    margin: 60px 0 20px 0;
+    margin: 60px 0 150px 0;
     max-width: 320px;
     text-align: center;
     font-size: 24px;
@@ -115,4 +115,8 @@ body {
     to {
         transform:scale(1);
     }
+}
+
+#author {
+    margin: 200px 0 100px 0;
 }

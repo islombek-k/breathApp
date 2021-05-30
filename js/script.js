@@ -1,5 +1,11 @@
 const container = document.getElementById('container');
 const text = document.getElementById('text');
+const author = document.getElementById('author');
+
+author.innerHTML = 'Made by Islom Aliy!';
+
+console.log('test');
+
 
 const totalTime = 7500;
 const breatheTime = (totalTime / 5) * 2;
